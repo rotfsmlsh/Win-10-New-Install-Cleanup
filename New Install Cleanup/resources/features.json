@@ -1,0 +1,12 @@
+{
+	"games":{[
+		{
+			"friendly_name":"Xbox App",
+			"ps_name_pattern":"*xbox*"
+		},
+		{
+			"friendly_name":"Microsoft Solitaire Collection",
+			"ps_name_pattern":"*solitaire*"
+		}		
+	]}
+}
