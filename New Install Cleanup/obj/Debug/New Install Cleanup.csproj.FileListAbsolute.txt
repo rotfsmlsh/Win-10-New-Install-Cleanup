@@ -1,0 +1,20 @@
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\New_Install_Cleanup.exe.config
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\New_Install_Cleanup.exe
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\New_Install_Cleanup.pdb
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New Install Cleanup.csprojAssemblyReference.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\MainWindow.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\App.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup_MarkupCompile.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup_MarkupCompile.lref
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\MainWindow.baml
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup.g.resources
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup.Properties.Resources.resources
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New Install Cleanup.csproj.GenerateResource.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup.exe
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New_Install_Cleanup.pdb
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\System.Management.Automation.dll
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Debug\System.Management.Automation.xml
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\New Install Cleanup.csproj.CopyComplete
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\RunConfirmation.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\RunConfirmation.baml

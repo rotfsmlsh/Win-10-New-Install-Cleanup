@@ -1,0 +1,13 @@
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Release\New_Install_Cleanup.exe.config
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Release\New_Install_Cleanup.exe
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\bin\Release\New_Install_Cleanup.pdb
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\MainWindow.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\App.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup_MarkupCompile.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup_MarkupCompile.lref
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\MainWindow.baml
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup.g.resources
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup.Properties.Resources.resources
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New Install Cleanup.csproj.GenerateResource.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup.exe
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New_Install_Cleanup.pdb
