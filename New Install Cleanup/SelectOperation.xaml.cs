@@ -55,5 +55,10 @@ namespace New_Install_Cleanup {
             RemoveDefaultApplications typicalApplications = new RemoveDefaultApplications(features);
             typicalApplications.Show();
         }
+
+        private void btn_privacySettings_Click(object sender, RoutedEventArgs e) {
+            PrivacySelection ps = new PrivacySelection();
+            ps.Show();
+        }
     }
 }

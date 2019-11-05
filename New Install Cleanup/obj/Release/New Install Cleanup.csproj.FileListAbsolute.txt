@@ -19,3 +19,6 @@ C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\RunConfirmation.baml
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\SelectOperation.baml
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New Install Cleanup.csproj.CopyComplete
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\New Install Cleanup.csprojAssemblyReference.cache
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\PrivacySelection.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Release\PrivacySelection.baml

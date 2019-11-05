@@ -5,12 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:New_Install_Cleanup"
         mc:Ignorable="d"
-        Title="Ammonia - Select Operation" Height="387" Width="294">
+        Title="Ammonia - Select Operation" Height="387" Width="584" ResizeMode="NoResize">
     <Grid>
-        <GroupBox x:Name="group_removeDefaults" Header="Remove Default Applications" Margin="30,81,30,30" ToolTip="Remove pre-installed Windows applications">
+        <GroupBox x:Name="group_removeDefaults" Header="Remove Default Applications" Margin="30,81,0,30" ToolTip="Remove pre-installed Windows applications" HorizontalAlignment="Left" Width="241">
             <Grid Margin="10">
-                <Button x:Name="btn_customRemoval" Content="Custom" Margin="10,112,10,0" VerticalAlignment="Top" Height="50" Click="btn_customRemoval_Click"/>
+                <Button x:Name="btn_customRemoval" Content="Advanced" Margin="10,112,10,0" VerticalAlignment="Top" Height="50" Click="btn_customRemoval_Click"/>
                 <Button x:Name="btn_typicalRemoval" Content="Typical" Margin="10,27,10,0" VerticalAlignment="Top" Height="50" Click="btn_typicalRemoval_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="group_privacySettings" Header="Update Default Privacy Settings" Margin="299,81,30,30" ToolTip="Remove pre-installed Windows applications">
+            <Grid Margin="10">
+                <Button x:Name="btn_privacySettings" Content="Set Privacy Options" Margin="10,72,10,0" VerticalAlignment="Top" Height="50" Click="btn_privacySettings_Click" />
             </Grid>
         </GroupBox>
 
