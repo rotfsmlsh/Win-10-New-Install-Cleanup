@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:New_Install_Cleanup"
         mc:Ignorable="d"
-        Title="Ammonia - Confirm Operation" Height="450" Width="800">
+        Title="Ammonia - Confirm Operation" Height="450" Width="769">
     <Grid>
-        <CheckBox x:Name="checkbox_understand" Content="I understand that this operation will remove pre-installed Windows applications from my PC." HorizontalAlignment="Left" Margin="50,350,0,0" VerticalAlignment="Top" Checked="checkbox_understand_Checked" Unchecked="checkbox_understand_unchecked"/>
-        <Button x:Name="btn_executeOperation" Content="Execute" HorizontalAlignment="Left" Margin="605,337,0,0" VerticalAlignment="Top" Width="135" Height="40" IsEnabled="False" Click="btn_executeOperation_Click"/>
-        <GroupBox x:Name="grpBox_summary" Header="Summary" HorizontalAlignment="Left" Height="300" Margin="50,20,0,0" VerticalAlignment="Top" Width="690">
-            <RichTextBox x:Name="txtBlock_summary" HorizontalAlignment="Left" Height="260" Margin="10,10,0,0" VerticalAlignment="Top" Width="660" VerticalScrollBarVisibility="Auto" Background="#FFD1D1D1">
+        <CheckBox x:Name="checkbox_understand" Content="I understand that this operation will remove &#xD;&#xA;pre-installed Windows applications from my PC." Margin="50,337,433,0" VerticalAlignment="Top" Checked="checkbox_understand_Checked" Unchecked="checkbox_understand_unchecked" Height="40"/>
+        <Button x:Name="btn_executeOperation" Content="Execute" Margin="0,337,52,0" VerticalAlignment="Top" Height="40" IsEnabled="False" Click="btn_executeOperation_Click" HorizontalAlignment="Right" Width="135"/>
+        <GroupBox x:Name="grpBox_summary" Header="Summary" Height="300" Margin="50,20,52,0" VerticalAlignment="Top">
+            <RichTextBox x:Name="txtBlock_summary" Height="260" Margin="10,10,8,0" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto" Background="#FFD1D1D1">
                 <FlowDocument>
                     <Paragraph>
                         <Run Text=""/>

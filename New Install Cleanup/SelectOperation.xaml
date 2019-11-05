@@ -1,0 +1,18 @@
+﻿<Window x:Class="New_Install_Cleanup.SelectOperation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:New_Install_Cleanup"
+        mc:Ignorable="d"
+        Title="Ammonia - Select Operation" Height="387" Width="294">
+    <Grid>
+        <GroupBox x:Name="group_removeDefaults" Header="Remove Default Applications" Margin="30,81,30,30" ToolTip="Remove pre-installed Windows applications">
+            <Grid Margin="10">
+                <Button x:Name="btn_customRemoval" Content="Custom" Margin="10,112,10,0" VerticalAlignment="Top" Height="50" Click="btn_customRemoval_Click"/>
+                <Button x:Name="btn_typicalRemoval" Content="Typical" Margin="10,27,10,0" VerticalAlignment="Top" Height="50" Click="btn_typicalRemoval_Click"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

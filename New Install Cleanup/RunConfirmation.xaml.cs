@@ -8,10 +8,8 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
+using System.Windows.Forms;
+using MessageBox = System.Windows.Forms.MessageBox;
 
 namespace New_Install_Cleanup {
     /// <summary>
@@ -19,9 +17,11 @@ namespace New_Install_Cleanup {
     /// </summary>
     public partial class RunConfirmation : Window {
         readonly List<FeatureEntity> entities;
-        public RunConfirmation(List<FeatureEntity> selectedEntities) {
+        RemoveDefaultApplications s;
+        public RunConfirmation(List<FeatureEntity> selectedEntities, RemoveDefaultApplications sender) {
             InitializeComponent();
             entities = selectedEntities;
+            s = sender;
             SetSelected(entities);
         }
 
@@ -29,7 +29,7 @@ namespace New_Install_Cleanup {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("The following applications will be uninstalled...\n");
             foreach(FeatureEntity entity in entities) {
-                sb.Append("Name: " + entity.name);
+                sb.Append("Name:" + entity.friendlyName);
                 sb.Append("\n");
             }
             txtBlock_summary.AppendText(sb.ToString());
@@ -44,7 +44,17 @@ namespace New_Install_Cleanup {
         }
 
         private void btn_executeOperation_Click(object sender, RoutedEventArgs e) {
-            runCleanupOperation();
+            MessageBoxButtons boxButtons = MessageBoxButtons.YesNo;
+            string title = "Ammonia - Confirm System Changes";
+            string message = "This operation will remove pre-installed Windows applications.\n\n Are you sure you want to do this?";
+            DialogResult result = MessageBox.Show(message, title, boxButtons, MessageBoxIcon.Warning);
+            if(result == System.Windows.Forms.DialogResult.Yes) {
+                runCleanupOperation();
+                s.Close();
+            }
+            else {
+                Close();
+            }           
         }
 
         private void runCleanupOperation() {
@@ -56,6 +66,8 @@ namespace New_Install_Cleanup {
                 ps.Invoke();
                 ps.Dispose();
             }
+
+            Close();
         }
     }
 }
