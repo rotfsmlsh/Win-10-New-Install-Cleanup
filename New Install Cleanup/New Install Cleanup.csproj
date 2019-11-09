@@ -61,8 +61,8 @@
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
-    <Compile Include="PrivacySelection.xaml.cs">
-      <DependentUpon>PrivacySelection.xaml</DependentUpon>
+    <Compile Include="PrivacyWizard.xaml.cs">
+      <DependentUpon>PrivacyWizard.xaml</DependentUpon>
     </Compile>
     <Compile Include="RunConfirmation.xaml.cs">
       <DependentUpon>RunConfirmation.xaml</DependentUpon>
@@ -70,7 +70,7 @@
     <Compile Include="SelectOperation.xaml.cs">
       <DependentUpon>SelectOperation.xaml</DependentUpon>
     </Compile>
-    <Page Include="PrivacySelection.xaml">
+    <Page Include="PrivacyWizard.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

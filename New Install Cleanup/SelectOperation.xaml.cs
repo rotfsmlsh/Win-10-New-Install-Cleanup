@@ -56,9 +56,8 @@ namespace New_Install_Cleanup {
             typicalApplications.Show();
         }
 
-        private void btn_privacySettings_Click(object sender, RoutedEventArgs e) {
-            PrivacySelection ps = new PrivacySelection();
-            ps.Show();
+        private void btn_privacySettings_Click_1(object sender, RoutedEventArgs e) {
+
         }
     }
 }

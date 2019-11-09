@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\
+C:\Users\danwoc\Source\Repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\
 New_Install_Cleanup
 none
 false
 DEBUG;TRACE
-C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\App.xaml
-4-1352931450
+C:\Users\danwoc\Source\Repos\Win-10-New-Install-Cleanup\New Install Cleanup\App.xaml
+4-1159352153
 
-91006729436
-15-2056560731
-PrivacySelection.xaml;RemoveDefaultApplications.xaml;RunConfirmation.xaml;SelectOperation.xaml;
+9-620820793
+1573989749
+PrivacyWizard.xaml;RemoveDefaultApplications.xaml;RunConfirmation.xaml;SelectOperation.xaml;
 
 True
 

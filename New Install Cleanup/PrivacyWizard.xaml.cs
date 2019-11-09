@@ -14,10 +14,10 @@ using System.Windows.Shapes;
 
 namespace New_Install_Cleanup {
     /// <summary>
-    /// Interaction logic for PermissionsSelection.xaml
+    /// Interaction logic for PrivacyWizard.xaml
     /// </summary>
-    public partial class PrivacySelection : Window {
-        public PrivacySelection() {
+    public partial class PrivacyWizard : Window {
+        public PrivacyWizard() {
             InitializeComponent();
         }
     }
