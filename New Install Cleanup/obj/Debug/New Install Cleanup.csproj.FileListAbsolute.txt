@@ -20,5 +20,5 @@ C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\SelectOperation.baml
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\RemoveDefaultApplications.g.cs
 C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\RemoveDefaultApplications.baml
-C:\Users\danwoc\Source\Repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\PrivacySelection.g.cs
-C:\Users\danwoc\Source\Repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\PrivacySelection.baml
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\PrivacySettings.g.cs
+C:\Users\danwoc\source\repos\Win-10-New-Install-Cleanup\New Install Cleanup\obj\Debug\PrivacySettings.baml
