@@ -1,5 +1,6 @@
 # Win-10-New-Install-Cleanup
 
+UPDATE FEB 2022: This was an abandoned project. I found something else that did the job better.
 
 This application was built in an attempt to streamline new Windows 10 installation process. Every time I do a clean install of Windows (and sometimes when I update) I end up with a handful of new pre-installed applications and a bunch of reverted privacy settings. 
 
